@@ -1,8 +1,8 @@
-import styled from 'styled-components'
+import styled from 'styled-components';
 
 export const HeaderStyled = styled.header`
-	background-color: #a7727d;
+	background-color: #f9f5e7;
 	color: #a7727d;
 	text-align: center;
 	padding: 24px 0;
-`
+`;
